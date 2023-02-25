@@ -11,3 +11,5 @@ $ sqlite3 mydatabase.db < insert_data.sql
 $ sqlite3 mydatabase.db < run_query.sql
 
 This will create the tables, insert the data, and run the query against the mydatabase.db database.
+
+
