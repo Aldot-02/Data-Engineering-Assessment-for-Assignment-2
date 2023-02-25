@@ -9,3 +9,5 @@ To run the SQL script, you can execute each file in order using a SQL client or 
 $ sqlite3 mydatabase.db < create_tables.sql
 $ sqlite3 mydatabase.db < insert_data.sql
 $ sqlite3 mydatabase.db < run_query.sql
+
+This will create the tables, insert the data, and run the query against the mydatabase.db database.
