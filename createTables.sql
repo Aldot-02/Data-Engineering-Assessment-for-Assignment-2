@@ -11,3 +11,5 @@ CREATE TABLE Promotions (
     employeeId INT,
     FOREIGN KEY (employeeId) REFERENCES Employees(id)
 );
+
+
